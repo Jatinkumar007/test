@@ -1,1 +1,1 @@
-hello bro
+console("Hello World");
